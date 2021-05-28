@@ -1,11 +1,4 @@
-## zzz-scm
-
-zzz source control management software is an overlay for easy to use git, and other scm tools.
-
-### Commands
-(TODO)
-
-### FAQ
+# FAQ
 _What is zzz scm?_
 
 zzz scm is an overlay for git that supports easy to use commands.
