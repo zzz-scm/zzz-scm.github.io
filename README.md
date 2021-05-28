@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## zzz-scm
 
-You can use the [editor on GitHub](https://github.com/zzz-scm/zzz-scm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+zzz source control management software is an overlay for easy to use git, and other scm tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Commands
+(TODO)
 
-### Markdown
+### FAQ
+_What is zzz scm?_
+zzz scm is an overlay for git that supports easy to use commands.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_What is the benefit of using zzz over git?_
+zzz hopes to make your workflow faster. Although git is a great tool, it can be really easy for developers to shoot themselves in the foot (beginners or otherwise), ZZZ hopes to clarify and always allow users to undo a change.
 
-```markdown
-Syntax highlighted code block
+_What changes will I need to make to use zzz?_
+you should add `.zzz/` to your .gitignore
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzz-scm/zzz-scm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Can zzz support scm tools other than git?_
+zzz will initially only support git, but can support other scm tools in the future.
